@@ -7,9 +7,8 @@ como um lego, voc~e irá ultilziar peças para criar algoritmos, ou seja, para r
 
 ## Peças de uma linguagem
 
-[x] Comentários
-
--Declaração de variáveis (const, let)
+- Comentários
+- Declaração de variáveis (const, let)
 Operadores (atribuições, contacatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
 - Estrutura de dados (functions, object, array)
@@ -37,6 +36,7 @@ Apresentar os dados
 
 - [x] Operadores de atribuição de valor =
 - [x] Operador de concatenação +
+- [x] Operadores de compração: == != <= >= < < >
 
 ## estrutura de dados:
 
@@ -63,6 +63,7 @@ Apresentar os dados
 # Codicionais
 
 - [x] Switch
+- [x] if/else
 
 ## Módulos em Node.js
 
