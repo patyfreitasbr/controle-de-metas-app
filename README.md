@@ -38,7 +38,7 @@ Desenvolvido durante a 17a NLW Pocket JavaScript da [Rocketseat](https://www.roc
 3. Digite:  ```git clone https://github.com/patyfreitasbr/metas-app``` e aperte enter   
 4. Digite: ```node index.js``` 
 5. Digite: ```npm install```
-6. Digite: ``ctrl l``` para limpar
+6. Digite: ```ctrl l``` para limpar
 7. Digite ```node index.js```
 
 
