@@ -37,7 +37,7 @@ Apresentar os dados
 - [x] Operadores de atribuição de valor =
 - [x] Operador de concatenação +
 - [x] Operadores de compração: == != <= >= < < >
-- [x] spread operator: ...
+- [x] Spread operator: ...
 
 ## estrutura de dados:
 
