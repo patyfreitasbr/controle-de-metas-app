@@ -1,6 +1,6 @@
 # App de Metas
 
-Este é um **App de Metas** interativo em Node.js que permite ao usuário cadastrar, listar, marcar como concluídas, visualizar e deletar metas pessoais. O aplicativo usa o terminal para interação e é perfeito para quem busca uma maneira simples e eficaz de gerenciar seus objetivos.
+Este é um **App de Metas** interativo em Node.js que permite ao usuário cadastrar, listar, marcar como concluídas, visualizar e deletar metas pessoais. O aplicativo usa o terminal para interação para quem busca uma maneira de gerenciar seus objetivos.
 
 Desenvolvido durante a 17a NLW Pocket JavaScript da [Rocketseat](https://www.rocketseat.com.br/).
 
