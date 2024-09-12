@@ -4,7 +4,11 @@ Este é um **App de Metas** interativo em Node.js que permite ao usuário cadast
 
 Desenvolvido durante a 17a NLW Pocket JavaScript da [Rocketseat](https://www.rocketseat.com.br/).
 
-[Funcionalidades](#funcionalidade) •  [Linguagens e tecnologias utilizada](#linguagens-e-tecnologias-utilizada) •  [Requisitos](#requisitos) •  [Instalação](#instalacao) •  [Uso](#uso) •  [Exemplo de uso](#exemplo-de-uso) •  [Contato](#contato) 
+[Demonstração](#demonstracao)• [Funcionalidades](#funcionalidade) •  [Linguagens e tecnologias utilizada](#linguagens-e-tecnologias-utilizada) •  [Requisitos](#requisitos) </br>  [Instalação](#instalacao) •  [Uso](#uso) •  [Exemplo de uso](#exemplo-de-uso) •  [Contato](#contato) 
+
+## Demonstração
+
+![gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Yr7Ly1qvWA_Tnmskszc5FvK2QOKqf6G6-amDJITRurxb3Na4IR6tBnT8RglLm7MXZ7g2qG5T1E5oEnBa6oXsPYCSM3pccJixxN9IgpzpfkNrhWoc9bEwV0VDHOlkWc7CJ06qsBUoj9w3UsiUgAtq15iSgJOkQFRuMH7-lK2ftVXveZOGujQ1soFz-gfz/s16000/metas%20app.gif)
 
 ## Funcionalidades
 
@@ -22,25 +26,21 @@ Desenvolvido durante a 17a NLW Pocket JavaScript da [Rocketseat](https://www.roc
 - **Node.js Built-in Modules**: Especificamente o módulo fs (File System) para manipulação de arquivos.
 
 ## Requisitos
-
 - [Node.js](https://nodejs.org/) v14 ou superior
 - [@inquirer/prompts](https://www.npmjs.com/package/@inquirer/prompts)
 
 ## Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-2. Instale as dependências:
-   ```bash
-    npm install
-    ```
+⚠️ Necessário ter o [GIT](https://git-scm.com/downloads) instalado no computador
 
-3. Inicie o aplicativo:
-   ```bash
-    node app.js
-    ```
+1. Abra o terminal Git Bash 
+2. Digite ```pwd``` e aperte enter
+3. Digite:  ```git clone https://github.com/patyfreitasbr/metas-app``` e aperte enter   
+4. Digite: ```node index.js``` 
+5. Digite: ```npm install```
+6. Digite: ``ctrl l``` para limpar
+7. Digite ```node index.js```
+
 
 ## Uso
 O App de Metas interage via terminal. Quando você iniciar o app, verá um menu com as seguintes opções:
