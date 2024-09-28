@@ -19,7 +19,7 @@ Desenvolvido durante a 17a NLW Pocket JavaScript da [Rocketseat](https://www.roc
 - **Deletar Metas**: Remova metas indesejadas do seu arquivo.
 - **Persistência de Dados**: As metas são salvas em um arquivo `metas.json` para que possam ser acessadas e manipuladas em execuções futuras.
 
-##  Linguagens e tecnologias utilizada
+##  Linguagens e tecnologias utilizadas
 
 - **JavaScript (Node.js)**: A linguagem principal usada no projeto, com foco em criar um aplicativo de linha de comando que gerencia metas.
 - **JSON**: Utilizado para salvar e carregar os dados das metas no arquivo metas.json.
